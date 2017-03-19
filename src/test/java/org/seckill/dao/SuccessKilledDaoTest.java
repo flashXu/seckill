@@ -1,7 +1,5 @@
 package org.seckill.dao;
 
-import static org.junit.Assert.*;
-
 import javax.annotation.Resource;
 
 import org.junit.Test;
