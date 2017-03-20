@@ -8,5 +8,5 @@ package org.seckill.service;
  *
  */
 public interface SeckillService {
-
+	public void function1();
 }
