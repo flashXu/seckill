@@ -4,7 +4,7 @@ import org.seckill.entity.SuccessKilled;
 import org.seckill.enums.SeckillStatEnum;
 
 /**
- * 封装秒杀之行后的结果
+ * 封装秒杀执行后的结果
  * @author jssjh
  *
  */
