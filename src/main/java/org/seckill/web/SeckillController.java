@@ -27,7 +27,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
  *
  */
 @Controller
-@RequestMapping("/seckill")//url:/模块/资源/{id}/细分 /seckill/list
+@RequestMapping("/seckill")   //url:/模块/资源/{id}/细分 /seckill/list
 public class SeckillController {
 	
 	private Logger logger = LoggerFactory.getLogger(this.getClass());
